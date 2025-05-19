@@ -1,9 +1,9 @@
-streamlit
-langchain
 langchain-community
 langchain-experimental
 openai
-huggingface_hub
+huggingface_hub==0.16.4
+langchain>=0.1.0
+streamlit
 faiss-cpu
 tiktoken
 python-dotenv
