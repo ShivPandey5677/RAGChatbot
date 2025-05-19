@@ -88,9 +88,10 @@ Provide the best possible answer based on your general knowledge.
 If you do not know the answer, say "I'm sorry, I don't know the answer."
 """
 )
+# meta-llama/Llama-3.1-8B-Instruct
 def get_llm():
     return HuggingFaceHub(
-        repo_id="meta-llama/Llama-3.1-8B-Instruct",
+        repo_id="deepseek-ai/DeepSeek-R1",
         huggingfacehub_api_token=os.environ["HUGGINGFACEHUB_API_TOKEN"],
         model_kwargs={"temperature": 0.7, "max_new_tokens": 512}
     )
