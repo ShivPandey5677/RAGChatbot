@@ -1,0 +1,6 @@
+Plans:
+- Basic: $5/month, 100GB storage
+- Pro: $15/month, 1TB storage, multi-device sync
+- Enterprise: Custom pricing, advanced security, support SLAs
+
+All plans include file versioning, sharing, and basic encryption.

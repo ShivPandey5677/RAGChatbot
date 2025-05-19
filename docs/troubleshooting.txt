@@ -1,0 +1,8 @@
+Issue: Can't upload files
+Solution: Ensure you're connected to the internet and using a supported browser (Chrome, Firefox).
+
+Issue: Storage full
+Solution: Delete unused files or upgrade your plan.
+
+Issue: Sync not working
+Solution: Check if the CloudBox app is running and updated to the latest version.

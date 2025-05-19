@@ -1,0 +1,12 @@
+Support Hours:
+- Standard Support: 9am–6pm Mon–Fri
+- Premium Support: 24/7
+
+Channels:
+- Email: support@example.com
+- Live Chat: available on our site
+- Phone support: for enterprise clients only
+
+Response Time:
+- Standard: within 12 hours
+- Premium: within 2 hours

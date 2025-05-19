@@ -1,0 +1,10 @@
+Product: CloudBox Pro 2.0
+- Storage Capacity: 2 TB
+- Encryption: AES-256 at rest and TLS in transit
+- Max Users: 50
+- Integration: Google Drive, Dropbox, Slack
+
+Product: CloudBox Enterprise
+- Storage: 10 TB, expandable
+- SSO & Admin Panel included
+- Supports API Access

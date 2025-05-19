@@ -1,0 +1,8 @@
+Q: What services does our company offer?
+A: We provide cloud storage, file sharing, and secure backup services for individuals and enterprises.
+
+Q: How do I reset my password?
+A: Go to the login page, click “Forgot Password,” and follow the email instructions.
+
+Q: Is customer support available 24/7?
+A: Yes, we offer 24/7 customer support via chat and email.
