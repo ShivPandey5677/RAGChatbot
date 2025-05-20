@@ -141,6 +141,7 @@ def main():
     if user_query:
         query_lower = user_query.lower()
         decision = "RAG"
+        related_questions=[]
 
         if "define" in query_lower:
             answer = define_term(user_query)
